@@ -29,9 +29,12 @@ instagram.com/perfil2
 instagram.com/perfil3
 ```
 
-
-Depois basta executar o programa que ele irá funcionar automáticamente
-
+# Avisos
+```bash
+Para editar a mensagem basta ir na linha 43 e alterar a mensagem.
+Programa está na fase inicial, em breve irei atualizar ele corrigindo alguns bugs de não clicar no "Enviar mensagem"
+Também irei fazer uma interface gráfica totalmente intuitiva para o programa.
+```
 
 ## Autores
 
