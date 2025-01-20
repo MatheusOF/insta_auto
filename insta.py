@@ -3,7 +3,6 @@ import time
 import pyperclip
 import webbrowser
 import csv
-import pyscreeze
 
 # Função para abrir o Instagram a partir de um link
 def abrir_instagram(link):
