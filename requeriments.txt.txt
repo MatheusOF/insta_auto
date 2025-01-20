@@ -1,0 +1,6 @@
+pyautogui
+time
+pyperclip
+webbrowser
+csv
+pyscreeze
