@@ -30,11 +30,12 @@ instagram.com/perfil3
 ```
 <img src="https://i.imgur.com/SkHT9ry.png" height="120">
 
+# Imagens do programa
+<img src="https://i.imgur.com/h5korSN_d.webp?maxwidth=760&fidelity=grand" height="180">
 # Avisos
 ```bash
-Para editar a mensagem basta ir na linha 43 e alterar a mensagem.
-Programa está na fase inicial, em breve irei atualizar ele corrigindo alguns bugs de não clicar no "Enviar mensagem"
-Também irei fazer uma interface gráfica totalmente intuitiva para o programa.
+Programa criado totalmente para uso pessoal e estudo, pode ter alguns bugs.
+Porém vou corrigindo com o tempo.
 ```
 
 ## Autores
