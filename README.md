@@ -28,7 +28,7 @@ instagram.com/perfil1
 instagram.com/perfil2
 instagram.com/perfil3
 ```
-<img src="https://i.imgur.com/SkHT9ry.png" height="80">
+<img src="https://i.imgur.com/SkHT9ry.png" height="120">
 
 # Avisos
 ```bash
