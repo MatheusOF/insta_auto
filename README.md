@@ -17,7 +17,7 @@ Primeiro de tudo instale as bibliotecas nescessárias para o programa funcionar.
 pip install -r requirements.txt
 ```
 
-Você também vai precisar de um aqruivo .csv, detalhe muito importante o nome do arquivo precisa ser exatamente como está abaixo.
+Você também vai precisar de um aqruivo .csv, detalhe muito importante o arquivo tem que ser em .csv.
 ```bash
 Nome: links_instagram.csv
 ```
@@ -28,6 +28,7 @@ instagram.com/perfil1
 instagram.com/perfil2
 instagram.com/perfil3
 ```
+<img src="https://i.imgur.com/SkHT9ry.png" height="250">
 
 # Avisos
 ```bash
