@@ -34,12 +34,17 @@ instagram.com/perfil3
 
 # Imagens
 <img src="https://i.imgur.com/h5korSN_d.webp?maxwidth=760&fidelity=grand" height="320">
+
+# Demonstração
+
+
+https://github.com/user-attachments/assets/323941e1-ee80-4f7e-9491-4f66d136a1d8
+
+
 # Avisos
 
 ```bash
-Programa criado totalmente para uso pessoal e estudo, pode ter alguns bugs.
-Porém vou corrigindo com o tempo.
-```
+Programa criado totalmente para uso pessoal e estudo, pode haver bugs.
 
 ## Autores
 
