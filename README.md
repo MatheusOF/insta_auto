@@ -35,6 +35,7 @@ instagram.com/perfil3
 # Imagens
 <img src="https://i.imgur.com/h5korSN_d.webp?maxwidth=760&fidelity=grand" height="320">
 # Avisos
+
 ```bash
 Programa criado totalmente para uso pessoal e estudo, pode ter alguns bugs.
 Porém vou corrigindo com o tempo.
