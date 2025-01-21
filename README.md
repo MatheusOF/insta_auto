@@ -1,7 +1,9 @@
 
 # Instagram Auto
 
-Programa criado com intuito de enviar mensagens totalmente automatizadas para pessoas no instagram
+Programa criado com intuito de enviar mensagens totalmente automatizadas para pessoas no instagram.
+
+Programa conta com uma database aonde apenas usuários que possuirem o login/senha conseguiram ter acesso ao programa.
 
 
 ## Instalação
