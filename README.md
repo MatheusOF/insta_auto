@@ -30,7 +30,7 @@ instagram.com/perfil3
 ```
 <img src="https://i.imgur.com/SkHT9ry.png" height="120">
 
-# Imagens do programa
+# Imagens
 <img src="https://i.imgur.com/h5korSN_d.webp?maxwidth=760&fidelity=grand" height="320">
 # Avisos
 ```bash
